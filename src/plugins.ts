@@ -2206,6 +2206,16 @@ export const plugins: PluginInfoBase[] = [
     discoverReleases: true,
   },
   {
+    repo: 'kongbai55/zotero-codex-reader',
+    releases: [],
+    tags: [
+      'ai',
+      'reader',
+      'integration',
+    ],
+    discoverReleases: true,
+  },
+  {
     repo: 'kongyan66/arxiv2zh',
     releases: [
       {
